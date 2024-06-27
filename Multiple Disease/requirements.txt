@@ -1,0 +1,6 @@
+numpy==1.26.3
+scikit-learn==1.3.2
+streamlit
+streamlit-option-menu
+flask Example, include other dependencies as needed
+pandas
