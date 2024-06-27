@@ -1,2 +1,0 @@
-streamlit run "C:\Users\Komal\Desktop\KKCODINGMAIN\PROJECTS\Multiple Disease\Multiple Disease Prediction System.py"
-C:/Users/Komal/Desktop/KKCODINGMAIN/PROJECTS/Multiple Disease/saved_models/
